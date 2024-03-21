@@ -5,4 +5,6 @@ import org.springframework.ui.Model;
 public interface NoteService {
 
     void getAllNotes(Model model);
+
+    void saveNote(String description, Model model);
 }
