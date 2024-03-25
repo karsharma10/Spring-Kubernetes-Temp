@@ -1,5 +1,5 @@
 # Spring-Kubernetes-Temp
-A Template For Developing and Deploying Spring Boot microservices on Kubernetes with MongoDB backend service.
+A Template For Developing and Deploying Spring Boot microservices on Kubernetes with MongoDB service.
 
 ## Dependencies:
 - [MongoDB](https://www.mongodb.com/docs/manual/administration/install-community/)
