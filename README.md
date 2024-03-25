@@ -33,8 +33,9 @@ Get the URL of the knote service which is the only pod that can be accessible fr
 minikube service knote --url
 ```
 ---
-[!WARNING]  
+**Warning**
 Environmental variables left in source code but should be removed for actual deployment.
 
-
+> [!WARNING]
+> Critical content comes here.
 
